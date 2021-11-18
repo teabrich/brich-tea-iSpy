@@ -1,4 +1,4 @@
 
 
-fleshy, round
-colorful, juicey
+green, lightweight
+square, empty
